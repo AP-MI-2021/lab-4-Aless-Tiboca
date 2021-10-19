@@ -1,5 +1,6 @@
 
 def caracterulDinLista(list):
+    '''
     caracter = ""
     maxApariti = 0
     caracterApariti = 0
@@ -11,7 +12,8 @@ def caracterulDinLista(list):
                 for j in range(i,len(x)):
                     if x[j] == caracter:
                         apariti += 1        
-
+    '''
+    pass
 
 def palindrom(element):
 
